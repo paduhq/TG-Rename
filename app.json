@@ -18,23 +18,23 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1118939577:AAGWKJ4xQ1KQWLYKw-QLLo2Ui8bKZhwHuJw"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": ""
+      "value": "f0a99d5e-4fa6-457f-b1b9-fee7ef007190"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1250190"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "88a4e28966222536436bb4ab18e96d55"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "254210865 556218472 1063603721"
+      "value": ""
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
