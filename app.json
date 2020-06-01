@@ -36,10 +36,6 @@
       "description": "allow only pre-defined users to use this bot",
       "value": "254210865 556218472 1063603721"
     },
-    "AUTH_CHANNEL": {
-      "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": "-1001190456887"
-    },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
       "value": "",
